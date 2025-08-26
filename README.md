@@ -59,4 +59,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- SOC Anaysis Home Lab using Docker,Kali Linux, and nmap
+- SOC Anaysis Home Lab using Docker, Kali Linux, and nmap
