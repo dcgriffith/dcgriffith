@@ -1,14 +1,12 @@
 # Hello, I'm David
 <a href="https://linkedin.com/in/david-griffith-ab8673112"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity professional with a strong IT operations background, transitioning into enterprise security through hands-on SOC training, real-world lab simulations, and advanced certifications. Skilled in SIEM (Azure Sentinel, Splunk), endpoint defense, and cloud security with expertise in incident response, IAM, and “zero trust” strategies. Holds an active Secret Clearance and a proven record of translating technical knowledge into practical security solutions for modern enterprise environments.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To leverage my IT operations experience and advanced cybersecurity training to protect enterprise systems against evolving threats. Seeking a Security Analyst or SOC role where I can apply my skills in SIEM monitoring, incident response, and cloud security to strengthen organizational defenses and support a “zero trust” security posture.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -25,6 +23,47 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+🔍 **Security Monitoring & SIEM**
+
+Azure Sentinel – Cloud-native SIEM for real-time alerting, correlation, and automated response.
+
+Splunk – Data aggregation, search, and visualization for security event analysis.
+
+Wireshark – Network packet capture and protocol analysis.
+
+🛡 **Endpoint & Network Protection**
+
+Qualys – Vulnerability scanning and compliance monitoring.
+
+EDR Concepts – Endpoint Detection & Response tools (training via labs like TryHackMe, LetsDefend).
+
+Kubernetes Security – Container orchestration security best practices.
+
+☁ **Cloud & Infrastructure Security**
+
+Microsoft Azure – Identity, access, and security controls for cloud environments.
+
+Google Cloud Platform (GCP) – Cloud networking and security configuration.
+
+Terraform – Infrastructure as Code (IaC) for secure, repeatable deployments.
+
+Ansible – Automated configuration management with security hardening.
+
+🔐 **Identity & Access Management (IAM)**
+
+SAML – Security Assertion Markup Language for secure single sign-on.
+
+OAuth – Authorization framework for secure API and app access.
+
+SCIM – System for Cross-domain Identity Management for user provisioning.
+
+🛠 **Security Operations & Incident Response**
+
+SOAR Concepts – Security Orchestration, Automation, and Response workflows.
+
+MITRE ATT&CK Framework – Tactics, techniques, and procedures mapping.
+
+Malware Analysis Tools – Forensics and malicious file inspection (via labs).
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
